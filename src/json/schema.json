@@ -1,0 +1,26 @@
+{
+    "properties": {
+      "List": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "_name": {
+              "type": "string"
+             },
+             "_attrs": {
+              "type": "object",
+              "properties": {
+                "propA": {
+                  "type": "string"
+                }, 
+                "propB": {
+                  "type": "string"
+                }
+              }
+             }
+          }
+        }
+      }
+    }
+  }
