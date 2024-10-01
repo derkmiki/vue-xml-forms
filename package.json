@@ -17,11 +17,12 @@
     "@jsonforms/core": "^3.4.0",
     "@jsonforms/vue": "^3.4.0",
     "@jsonforms/vue-vuetify": "^3.4.0",
-    "jstoxml": "^5.0.2",
+    "events": "^3.3.0",
     "pinia": "^2.2.2",
     "vue": "^3.4.29",
     "vuetify": "^3.7.2",
-    "xml-formatter": "^3.6.3"
+    "xml-formatter": "^3.6.3",
+    "xml-js": "^1.6.11"
   },
   "devDependencies": {
     "@rushstack/eslint-patch": "^1.8.0",

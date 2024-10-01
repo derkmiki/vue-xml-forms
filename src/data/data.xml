@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<List>
+    <Item name="NameA" prop1="test" prop2="test"/>
+    <Item name="NameB" prop1="test2" prop2="test2"/>    
+</List>

@@ -1,0 +1,40 @@
+{
+  "properties": {
+    "List": {
+      "type": "array",
+      "items": {
+        "properties": {
+          "Item": {
+            "$ref": "#/$defs/item"
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "item": {
+      "type": "array",
+      "items": {
+        "properties": {
+          "_attributes": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },              
+              "prop1": {
+                "type": "string"
+              },
+              "prop2": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "name"
+            ]
+          }
+        }
+      }
+    }
+  }
+}
