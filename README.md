@@ -3,7 +3,7 @@
 Generate XML from Forms. This utilizes:
 
 - Json Forms. See  [jsonforms.io](https://jsonforms.io/)
-- Js to Xml. See [jstoxml](https://www.npmjs.com/package/jstoxml)
+- xml-js. See [jstoxml](https://www.npmjs.com/package/xml-js)
 
 Although jsonforms.io provided a seed for vue , it is by default using vanilla js. This project uses Vuetify integration. See [vue-vuetify](https://www.npmjs.com/package/@jsonforms/vue-vuetify)
 
